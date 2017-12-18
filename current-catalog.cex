@@ -1,0 +1,15 @@
+// hc-dde requires CEX version 3:
+3.0
+
+
+name#Holy Cross Digital Diplomatic Editions
+urn#urn:cite2:hcdde:pubseries.v1:catalog
+license#Creative Commons Attribution, Non-Commercial 4.0 License <https://creativecommons.org/licenses/by-nc/4.0/>.
+
+
+namespace#hcdde#http://hc-dde.github.io/citens/hcdde
+namespace#ddedemo#http://hc-dde.github.io/ctsns/ddedemo
+
+
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online
+urn:cts:ddedemo:demos.model.v1:#section#Examples and models#A complete, one-line edition#Version 1##true#lat
